@@ -1,4 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [notes](CMD_SKILLS.md)
+* [CMD](CMD_SKILLS.md)
+* [Django](Django_notes.md)
+* [Linux](Linux_notes.md)
+* [GIT](Git_skills.md)
+* [Markdown](Markdown.md)
