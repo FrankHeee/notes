@@ -6,4 +6,4 @@
 * [Linux](Linux_notes.md)
 * [GIT](Git_skills.md)
 * [Markdown](Markdown.md)
-* [pandas_note](pandas.md)
+* [pandas_note](pandas_notes.md)
