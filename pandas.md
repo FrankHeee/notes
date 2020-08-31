@@ -3,7 +3,7 @@
 
 ![read_csv](https://gitee.com/frankheee/blog_django/raw/master/2020/8/31/8/53/33.jpg)
 
-```python
+```
 def get_df():
 	df=pd.read_csv(
 		g_new_path,
